@@ -1,0 +1,99 @@
+2020-04-27 11:19:00,842 INFO 972 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61859160ms at 2020-04-28 04:30:00.002
+2020-04-27 11:19:00,842 INFO 972 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45659158ms at 2020-04-28 00:00:00.000
+2020-04-27 11:19:00,842 INFO 972 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45660158ms at 2020-04-28 00:00:01.000
+2020-04-27 11:19:00,731 INFO 5116 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:19:00,731 INFO 5116 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:19:00,731 INFO 5116 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:31:33,541 INFO 9824 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:31:33,541 INFO 9824 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:31:33,541 INFO 9824 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:31:34,812 INFO 4248 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:31:34,812 INFO 4248 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:31:34,812 INFO 4248 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:36:43,660 INFO 13108 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:36:43,661 INFO 13108 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:36:43,661 INFO 13108 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:36:43,766 INFO 2504 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 60796235ms at 2020-04-28 04:30:00.001
+2020-04-27 11:36:43,767 INFO 2504 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44596233ms at 2020-04-28 00:00:00.000
+2020-04-27 11:36:43,767 INFO 2504 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44597233ms at 2020-04-28 00:00:01.000
+2020-04-27 11:38:24,629 INFO 6548 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:38:24,629 INFO 6548 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:38:24,629 INFO 6548 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:41:47,319 INFO 4116 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:41:47,319 INFO 4116 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:41:47,319 INFO 4116 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:43:51,331 INFO 3664 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:43:51,331 INFO 3664 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:43:51,331 INFO 3664 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:43:55,846 INFO 13868 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:43:55,846 INFO 13868 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:43:55,846 INFO 13868 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:49:58,227 INFO 7300 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 60001775ms at 2020-04-28 04:30:00.002
+2020-04-27 11:49:58,228 INFO 7300 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 43801773ms at 2020-04-28 00:00:00.001
+2020-04-27 11:49:58,228 INFO 7300 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 43802772ms at 2020-04-28 00:00:01.000
+2020-04-27 11:49:58,142 INFO 2060 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:49:58,142 INFO 2060 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:49:58,142 INFO 2060 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:50:27,780 INFO 1852 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:50:27,780 INFO 1852 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:50:27,780 INFO 1852 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:51:55,010 INFO 5852 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:51:55,010 INFO 5852 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:51:55,010 INFO 5852 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 11:53:08,804 INFO 1248 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 11:53:08,804 INFO 1248 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 11:53:08,804 INFO 1248 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 12:02:23,472 INFO 13656 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 12:02:23,472 INFO 13656 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 12:02:23,472 INFO 13656 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 12:03:40,077 INFO 5740 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 12:03:40,077 INFO 5740 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 12:03:40,077 INFO 5740 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 12:03:41,047 INFO 13488 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 12:03:41,047 INFO 13488 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 12:03:41,047 INFO 13488 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 12:03:57,296 INFO 8168 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 12:03:57,296 INFO 8168 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 12:03:57,296 INFO 8168 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 12:04:01,136 INFO 1376 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 12:04:01,136 INFO 1376 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 12:04:01,136 INFO 1376 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:03:20,319 INFO 7048 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:03:20,319 INFO 7048 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:03:20,319 INFO 7048 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:03:23,087 INFO 6036 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:03:23,087 INFO 6036 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:03:23,087 INFO 6036 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:03:39,570 INFO 5684 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:03:39,570 INFO 5684 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:03:39,570 INFO 5684 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:12:18,942 INFO 768 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:12:18,942 INFO 768 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:12:18,942 INFO 768 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:19:04,776 INFO 7024 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:19:04,776 INFO 7024 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:19:04,776 INFO 7024 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:21:11,721 INFO 14028 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:21:11,721 INFO 14028 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:21:11,721 INFO 14028 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:28:24,606 INFO 8164 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:28:24,606 INFO 8164 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:28:24,606 INFO 8164 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:28:33,384 INFO 10728 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:28:33,384 INFO 10728 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:28:33,384 INFO 10728 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:29:03,538 INFO 6588 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:29:03,538 INFO 6588 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:29:03,538 INFO 6588 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:29:03,637 INFO 10708 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50456365ms at 2020-04-28 04:30:00.002
+2020-04-27 14:29:03,637 INFO 10708 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34256363ms at 2020-04-28 00:00:00.000
+2020-04-27 14:29:03,637 INFO 10708 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34257363ms at 2020-04-28 00:00:01.000
+2020-04-27 14:47:28,692 INFO 12708 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:47:28,692 INFO 12708 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:47:28,692 INFO 12708 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-27 14:47:28,789 INFO 4400 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49351213ms at 2020-04-28 04:30:00.002
+2020-04-27 14:47:28,789 INFO 4400 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33151211ms at 2020-04-28 00:00:00.000
+2020-04-27 14:47:28,790 INFO 4400 [Timer] C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33152211ms at 2020-04-28 00:00:01.001
+2020-04-27 14:49:26,880 INFO 3564 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-27 14:49:26,880 INFO 3564 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-27 14:49:26,880 INFO 3564 [egg-schedule]: register schedule C:\Users\EDZ\code\seq-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

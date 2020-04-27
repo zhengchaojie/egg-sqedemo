@@ -1,0 +1,213 @@
+2020-04-27 11:32:05,157 ERROR 4248 [-/127.0.0.1/-/3ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'login' of undefined
+    at new HomeService (C:\Users\EDZ\code\seq-demo\app\service\home.js:7:39)
+    at getInstance (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\context_loader.js:92:18)
+    at ClassLoader.get (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\context_loader.js:27:22)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:15:34)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+
+pid: 4248
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 11:38:27,968 ERROR 6548 [-/127.0.0.1/-/6ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'login' of undefined
+    at new HomeService (C:\Users\EDZ\code\seq-demo\app\service\home.js:7:39)
+    at getInstance (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\context_loader.js:92:18)
+    at ClassLoader.get (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\context_loader.js:27:22)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:34)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+
+pid: 6548
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 11:41:56,186 ERROR 4116 [-/127.0.0.1/-/6ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'login' of undefined
+    at HomeService.selectById (C:\Users\EDZ\code\seq-demo\app\service\home.js:15:40)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:39)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+
+pid: 4116
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 11:43:58,899 ERROR 13868 [-/127.0.0.1/-/6ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'Login' of undefined
+    at HomeService.selectById (C:\Users\EDZ\code\seq-demo\app\service\home.js:15:40)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:39)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+
+pid: 13868
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 11:50:01,687 ERROR 2060 [-/127.0.0.1/-/6ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 2060
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 11:50:29,869 ERROR 1852 [-/127.0.0.1/-/9ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 1852
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 11:51:58,226 ERROR 5852 [-/127.0.0.1/-/10ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 5852
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 11:53:12,850 ERROR 1248 [-/127.0.0.1/-/7ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 1248
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 12:02:26,145 ERROR 13656 [-/127.0.0.1/-/8ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 13656
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 12:03:43,730 ERROR 13488 [-/127.0.0.1/-/12ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 13488
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 12:04:04,007 ERROR 1376 [-/127.0.0.1/-/9ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 1376
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 14:03:25,696 ERROR 6036 [-/127.0.0.1/-/6ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 6036
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 14:03:44,010 ERROR 5684 [-/127.0.0.1/-/6ms GET /selectById?Id=1] nodejs.TypeError: this.JsonBody is not a function
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:17:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 5684
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 14:12:25,965 ERROR 768 [-/127.0.0.1/-/8ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'login' of undefined
+    at new HomeService (C:\Users\EDZ\code\seq-demo\app\service\home.js:8:39)
+    at getInstance (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\context_loader.js:92:18)
+    at ClassLoader.get (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\context_loader.js:27:22)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:34)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+
+pid: 768
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 14:19:07,710 ERROR 7024 [-/127.0.0.1/-/6ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'Login' of undefined
+    at HomeService.selectById (C:\Users\EDZ\code\seq-demo\app\service\home.js:20:31)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:39)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+
+pid: 7024
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 14:21:14,889 ERROR 14028 [-/127.0.0.1/-/8ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'Login' of undefined
+    at HomeService.selectById (C:\Users\EDZ\code\seq-demo\app\service\home.js:20:31)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:39)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+
+pid: 14028
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 14:28:38,287 ERROR 10728 [-/127.0.0.1/-/8ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'Login' of undefined
+    at HomeService.selectById (C:\Users\EDZ\code\seq-demo\app\service\home.js:20:31)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:39)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+
+pid: 10728
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 14:29:19,576 ERROR 6588 [-/127.0.0.1/-/5ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'Login' of undefined
+    at HomeService.selectById (C:\Users\EDZ\code\seq-demo\app\service\home.js:20:31)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:39)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+
+pid: 6588
+hostname: DESKTOP-8BLM6N8
+
+2020-04-27 14:47:29,969 ERROR 12708 [-/127.0.0.1/-/7ms GET /selectById?Id=1] nodejs.TypeError: Cannot read property 'login' of undefined
+    at HomeService.selectById (C:\Users\EDZ\code\seq-demo\app\service\home.js:20:31)
+    at HomeController.selectById (C:\Users\EDZ\code\seq-demo\app\controller\home.js:16:39)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\EDZ\code\seq-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\EDZ\code\seq-demo\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\EDZ\code\seq-demo\node_modules\koa-compose\index.js:44:32)
+
+pid: 12708
+hostname: DESKTOP-8BLM6N8
+
